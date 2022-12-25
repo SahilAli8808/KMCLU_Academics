@@ -1,0 +1,1 @@
+//write a program to implement linear search
